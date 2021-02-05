@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+hr {
+    width: 50px;
+    height: 10px;
+    background: black;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+
+input {
+    background: grey;
+}
+
